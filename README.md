@@ -55,6 +55,6 @@ You can automate development environments setup on the cloud, by installing it f
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to to test your code before opening pull requests.
+Please make sure to test your code before opening pull requests.
 
-Right now we support only windows machines. I would like to extend the support to UNIX and MAC machines, as well.
+Right now we support only windows machines and eclipse. I would like to extend the support to UNIX and MAC machines, and more development environments as well.
